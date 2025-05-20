@@ -35,5 +35,5 @@ Este proyecto está bajo licencia MIT. Siéntete libre de usarlo y modificarlo.
 
 ## Contacto
 
-Para cualquier duda, puedes contactarme en [tu-email@example.com].
+Para cualquier duda, puedes contactarme en [maicolzuluagaarias591@gmail.com].
 
